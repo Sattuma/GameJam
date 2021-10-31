@@ -628,8 +628,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 41.02079, y: -67.68422}
-  m_SizeDelta: {x: 280.8616, y: 125.1784}
+  m_AnchoredPosition: {x: 39.705734, y: -74.40263}
+  m_SizeDelta: {x: 278.2315, y: 138.6152}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &752176498
 MonoBehaviour:
@@ -664,8 +664,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Press w to move up, S to move down to collect groovie notes to for boogie
-    vibes. '
+  m_Text: 'Press w to move up, S to move down to collect groovie notes to for spooky
+    boogie vibes. '
 --- !u!222 &752176499
 CanvasRenderer:
   m_ObjectHideFlags: 0
